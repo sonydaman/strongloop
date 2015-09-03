@@ -1,0 +1,30 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "Todo": 19,
+    "content": 1,
+    "contents": 1
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "Todo": {
+      "12": "{\"content\":\"Raju\",\"id\":1}",
+      "13": "{\"content\":\"Ram\",\"id\":13}",
+      "14": "{\"content\":\"Shyam\",\"id\":14}",
+      "15": "{\"content\":\"Sita\",\"id\":15}",
+      "16": "{\"content\":\"Gita\",\"id\":16}",
+      "17": "{\"content\":\"John\",\"id\":17}",
+      "18": "{\"content\":\"John1\",\"id\":18}"
+    },
+    "content": {},
+    "contents": {}
+  }
+}
